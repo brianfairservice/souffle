@@ -1,0 +1,10 @@
+<map id="souffle::LVMRelInterface::iterator_base::operator*" name="souffle::LVMRelInterface::iterator_base::operator*">
+<area shape="rect" id="node2" href="$classsouffle_1_1_l_v_m_rel_interface.html#aa8aab107c622e211500091533385d5ac" title="Get arity. " alt="" coords="467,7,645,48"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_l_v_m_rel_interface.html#a7385eb731cf911c6afbe4ef5aab3b229" title="Get attribute type. " alt="" coords="240,36,419,77"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_l_v_m_rel_interface.html#aee7c3451f0ef50ac528753d131a6e3eb" title="Get symbol table. " alt="" coords="240,101,419,143"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_symbol_table.html#a438d450330bc4128144f08c6ae0c4989" title="Find a symbol in the table by its index, note that this gives an error if the index is out of bounds..." alt="" coords="251,167,408,208"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1tuple.html#a178e16d502713964b96c2346592255a1" title="reset stream pointer to first element of tuple " alt="" coords="250,233,409,259"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_l_v_m_relation.html#a1437596db00d304f7e57d55e17314a06" title="Return arity. " alt="" coords="693,7,847,48"/>
+<area shape="rect" id="node7" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="476,145,636,171"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_symbol_table.html#ab9b012e60e61e149cfc430a9eccc20ea" title="souffle::SymbolTable\l::size" alt="" coords="477,196,635,237"/>
+</map>

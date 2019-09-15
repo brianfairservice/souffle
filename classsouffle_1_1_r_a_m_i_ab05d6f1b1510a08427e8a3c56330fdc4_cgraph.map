@@ -1,0 +1,30 @@
+<map id="souffle::RAMI::evalExpr" name="souffle::RAMI::evalExpr">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_abstract_operator.html#a9c2d3db346af5882ed8aaffbe41ff06a" title="Get number of arguments. " alt="" coords="237,5,452,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_abstract_operator.html#a357aa145be2457c4997a0b8bd3072cb4" title="Get i&#45;th argument value. " alt="" coords="237,71,452,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_r_a_m_i_context.html#af2f183025d9f36af9a9f0b0cbdc2968c" title="souffle::RAMIContext\l::getArgument" alt="" coords="266,136,423,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_subroutine_argument.html#a8736cabf62352da875c7c1690425f6e5" title="Get argument. " alt="" coords="225,201,464,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_abstract_operator.html#a5af3fa1bfb6f144e04a9274ee0f9592c" title="Get argument values. " alt="" coords="237,267,452,308"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_pack_record.html#a5a8099709a478032401ed70832b5d4dc" title="Get record arguments. " alt="" coords="255,332,434,373"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_number.html#aaad4e5181ad4deda3cc250818f71367e" title="Get constant. " alt="" coords="267,397,423,439"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_tuple_element.html#a4aa72b51be176e479a0077772f284969" title="Get element. " alt="" coords="249,463,441,504"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_r_a_m_i_interface.html#ad2e3c5e97e1f0b4ba9c014f82939f107" title="souffle::RAMIInterface\l::getMethodHandle" alt="" coords="263,528,427,569"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ram_user_defined_operator.html#a71826dceecc768d135b4653890a7c30d" title="Get operator name. " alt="" coords="224,593,465,635"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ram_intrinsic_operator.html#a4a8951af19e0c5bdfebee3013316cf5e" title="Get operator symbol. " alt="" coords="238,659,451,700"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_r_a_m_i.html#ad2195495eef6d69868654f8854ff858f" title="Get symbol table. " alt="" coords="253,724,437,765"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ram_tuple_element.html#a643cdce3585e08c4d88e6381abade324" title="Get identifier. " alt="" coords="249,789,441,831"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ram_user_defined_operator.html#a607e72b17cffc5fad061070897f9acae" title="Get types of arguments. " alt="" coords="224,855,465,896"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_r_a_m_i.html#a89028d72e794b7083299d7b1bdb2e1e3" title="Increment counter. " alt="" coords="253,921,437,947"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_symbol_table.html#ada9d8afe1219bf54d16507b424f512c6" title="Find the index of a symbol in the table, inserting a new symbol if it does not exist there already..." alt="" coords="266,972,423,1013"/>
+<area shape="rect" id="node26" href="$namespacesouffle.html#a3194e440e935d0d6089f8fa6bf405086" title="A function packing a tuple of the given arity into a reference. " alt="" coords="292,1039,397,1066"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_symbol_table.html#a438d450330bc4128144f08c6ae0c4989" title="Find a symbol in the table by its index, note that this gives an error if the index is out of bounds..." alt="" coords="266,1093,423,1135"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="541,307,688,334"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_r_a_m_i_interface.html#a022b03fac29200295d48a6e0f4a6feec" title="Load dll. " alt="" coords="533,528,697,569"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="764,510,927,537"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a673608e9453179d30f6607384f54463a" title="Splits a string given a delimiter. " alt="" coords="775,561,915,587"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ram_translation_unit.html#a8ccc558101dfe5474d8556d99d07e9d4" title="get symbol table " alt="" coords="513,724,716,765"/>
+<area shape="rect" id="node20" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="549,797,681,823"/>
+<area shape="rect" id="node24" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="765,1042,925,1069"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_symbol_table.html#a3ada80bb01130f70001918c386d3ab21" title="Convenience method to place a new symbol in the table, if it does not exist, and return the index of ..." alt="" coords="536,969,693,1011"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1detail_1_1_record_map.html#a50da37d2493c58782ba088e82d4d3708" title="Packs the given tuple – and may create a new reference if necessary. " alt="" coords="519,1035,710,1076"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_symbol_table.html#ab9b012e60e61e149cfc430a9eccc20ea" title="souffle::SymbolTable\l::size" alt="" coords="536,1152,693,1193"/>
+</map>

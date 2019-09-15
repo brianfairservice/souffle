@@ -1,0 +1,8 @@
+<map id="souffle::LVMCode::getSymbolTable" name="souffle::LVMCode::getSymbolTable">
+<area shape="rect" id="node2" href="$classsouffle_1_1_l_v_m_code.html#abe0eca6f89538d540a65f06a6d3f8ac7" title="Print out the code stream. " alt="" coords="264,35,435,61"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_l_v_m_code.html#aa9510084d6570249274984994fcebbd9" title="souffle::LVMCode::\l~LVMCode" alt="" coords="279,86,420,127"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_l_v_m_code.html#ad193a5b56d440a745af487e7316051ec" title="Return reference to code stream. " alt="" coords="483,5,677,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_symbol_table.html#a438d450330bc4128144f08c6ae0c4989" title="Find a symbol in the table by its index, note that this gives an error if the index is out of bounds..." alt="" coords="501,57,659,98"/>
+<area shape="rect" id="node5" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="725,35,885,61"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_symbol_table.html#ab9b012e60e61e149cfc430a9eccc20ea" title="souffle::SymbolTable\l::size" alt="" coords="727,86,884,127"/>
+</map>

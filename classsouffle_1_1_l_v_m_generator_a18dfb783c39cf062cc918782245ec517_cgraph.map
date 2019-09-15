@@ -1,0 +1,8 @@
+<map id="souffle::LVMGenerator::visitAggregate" name="souffle::LVMGenerator::visitAggregate">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_abstract_aggregate.html#a77e13a8d984bba805c9f1701e947e441" title="Get condition. " alt="" coords="219,5,444,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_abstract_aggregate.html#a347f9771fa0c565779edd31fe46df237" title="Get target expression. " alt="" coords="219,71,444,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_abstract_aggregate.html#a201173932d34a242a6825f8298343c98" title="Get aggregation function. " alt="" coords="219,136,444,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_relation_operation.html#a499c5f7c9562a0cfe16ee3668e19ca88" title="Get search relation. " alt="" coords="221,201,442,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_tuple_operation.html#ae121c8c72d4b9dcb56fe2d69b6364720" title="Get identifier. " alt="" coords="230,267,433,308"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="492,274,624,301"/>
+</map>

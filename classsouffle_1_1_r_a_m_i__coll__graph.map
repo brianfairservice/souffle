@@ -1,0 +1,10 @@
+<map id="souffle::RAMI" name="souffle::RAMI">
+<area shape="rect" id="node2" href="$classsouffle_1_1_r_a_m_i_interface.html" title="Interpreter Interface. " alt="" coords="644,807,813,1001"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_index_analysis.html" title="{souffle::RamIndexAnalysis\n||+ getIndexes()\l+ getIndexes()\l+ getSearchSignature()\l+ getSearchSignature()\l+ getSearchSignature()\l+ getSearchSignature()\l+ isTotalSignature()\l+ print()\l+ RamIndexAnalysis()\l+ run()\l}" alt="" coords="186,520,381,729"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_analysis.html" title="Abstract class for a RAM Analysis. " alt="" coords="5,248,164,384"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_translation_unit.html" title="Translating a RAM program. " alt="" coords="761,505,963,744"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_debug_report.html" title="Class representing a HTML report, consisting of a list of sections. " alt="" coords="464,255,623,377"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_error_report.html" title="{souffle::ErrorReport\n||+ addDiagnostic()\l+ addError()\l+ addWarning()\l+ ErrorReport()\l+ ErrorReport()\l+ getNumErrors()\l+ getNumIssues()\l+ getNumWarnings()\l+ print()\l}" alt="" coords="919,219,1077,413"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="1102,189,1270,443"/>
+<area shape="rect" id="node19" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="1229,5,1333,127"/>
+</map>

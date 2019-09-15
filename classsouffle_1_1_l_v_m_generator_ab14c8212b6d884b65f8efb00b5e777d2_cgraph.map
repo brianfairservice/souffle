@@ -1,0 +1,10 @@
+<map id="souffle::LVMGenerator::visitIndexChoice" name="souffle::LVMGenerator::visitIndexChoice">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_relation.html#aa2d201d636a8b01283b5996a56d7abb8" title="souffle::RamRelation\l::getArity" alt="" coords="251,5,408,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_abstract_choice.html#a310723266dd0d0df6a6198f225224a5a" title="Getter for the condition. " alt="" coords="228,71,431,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_index_operation.html#ad3fc48776d5267175880fb0e5503588e" title="Get range pattern. " alt="" coords="227,136,431,177"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_relation_operation.html#a499c5f7c9562a0cfe16ee3668e19ca88" title="Get search relation. " alt="" coords="219,201,440,243"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_tuple_operation.html#ae121c8c72d4b9dcb56fe2d69b6364720" title="Get identifier. " alt="" coords="228,267,431,308"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#aaaed06bbcb6b8efcfd2474b1c5d81aa3" title="Determines if an expression is undefined. " alt="" coords="234,333,425,359"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="488,143,635,170"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="495,274,627,301"/>
+</map>

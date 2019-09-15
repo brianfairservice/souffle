@@ -1,0 +1,6 @@
+<map id="souffle::LVMGenerator::visitUnpackRecord" name="souffle::LVMGenerator::visitUnpackRecord">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_unpack_record.html#aaf3fa6475d0ebfe9c6563ab87899fa60" title="Get arity of record. " alt="" coords="221,5,419,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_unpack_record.html#a088ccab1d19dc4f4db2a7c78a9a3151b" title="Get record expression. " alt="" coords="221,71,419,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_tuple_operation.html#ae121c8c72d4b9dcb56fe2d69b6364720" title="Get identifier. " alt="" coords="219,136,421,177"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="469,143,601,170"/>
+</map>

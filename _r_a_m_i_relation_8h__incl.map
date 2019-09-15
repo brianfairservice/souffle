@@ -1,0 +1,18 @@
+<map id="RAMIRelation.h" name="RAMIRelation.h">
+<area shape="rect" id="node2" href="$_parallel_utils_8h.html" title="ParallelUtils.h" alt="" coords="1573,603,1685,629"/>
+<area shape="rect" id="node4" href="$_r_a_m_i_index_8h.html" title="RAMIIndex.h" alt="" coords="1853,453,1955,480"/>
+<area shape="rect" id="node8" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="3308,677,3409,704"/>
+<area shape="rect" id="node36" href="$_ram_index_analysis_8h.html" title="RamIndexAnalysis.h" alt="" coords="773,80,928,107"/>
+<area shape="rect" id="node6" href="$_b_tree_8h.html" title="BTree.h" alt="" coords="1643,528,1714,555"/>
+<area shape="rect" id="node7" href="$_util_8h.html" title="Util.h" alt="" coords="2074,603,2131,629"/>
+<area shape="rect" id="node37" href="$_ram_analysis_8h.html" title="RamAnalysis.h" alt="" coords="731,229,850,256"/>
+<area shape="rect" id="node38" href="$_ram_operation_8h.html" title="RamOperation.h" alt="" coords="1529,229,1657,256"/>
+<area shape="rect" id="node43" href="$_ram_relation_8h.html" title="RamRelation.h" alt="" coords="1573,453,1691,480"/>
+<area shape="rect" id="node50" href="$_ram_statement_8h.html" title="RamStatement.h" alt="" coords="1050,155,1182,181"/>
+<area shape="rect" id="node39" href="$_ram_condition_8h.html" title="RamCondition.h" alt="" coords="2033,304,2159,331"/>
+<area shape="rect" id="node40" href="$_ram_expression_8h.html" title="RamExpression.h" alt="" coords="2083,379,2218,405"/>
+<area shape="rect" id="node41" href="$_ram_node_8h.html" title="RamNode.h" alt="" coords="1056,528,1155,555"/>
+<area shape="rect" id="node46" href="$_symbol_table_8h.html" title="SymbolTable.h" alt="" coords="1941,528,2059,555"/>
+<area shape="rect" id="node44" href="$_i_o_directives_8h.html" title="IODirectives.h" alt="" coords="2801,603,2916,629"/>
+<area shape="rect" id="node45" href="$_relation_representation_8h.html" title="RelationRepresentation.h" alt="" coords="1331,528,1517,555"/>
+</map>

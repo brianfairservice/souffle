@@ -1,0 +1,13 @@
+<map id="souffle::RAMIProgInterface" name="souffle::RAMIProgInterface">
+<area shape="rect" id="node2" href="$classsouffle_1_1_souffle_program.html" title="Abstract base class for generated Datalog programs. " alt="" coords="241,873,419,1111"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_r_a_m_i_interface.html" title="Interpreter Interface. " alt="" coords="976,895,1145,1089"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_index_analysis.html" title="{souffle::RamIndexAnalysis\n||+ getIndexes()\l+ getIndexes()\l+ getSearchSignature()\l+ getSearchSignature()\l+ getSearchSignature()\l+ getSearchSignature()\l+ isTotalSignature()\l+ print()\l+ RamIndexAnalysis()\l+ run()\l}" alt="" coords="446,520,641,729"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_analysis.html" title="Abstract class for a RAM Analysis. " alt="" coords="197,248,356,384"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ram_translation_unit.html" title="Translating a RAM program. " alt="" coords="959,505,1162,744"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_debug_report.html" title="Class representing a HTML report, consisting of a list of sections. " alt="" coords="656,255,815,377"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_error_report.html" title="{souffle::ErrorReport\n||+ addDiagnostic()\l+ addError()\l+ addWarning()\l+ ErrorReport()\l+ ErrorReport()\l+ getNumErrors()\l+ getNumIssues()\l+ getNumWarnings()\l+ print()\l}" alt="" coords="1111,219,1269,413"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="1309,189,1477,443"/>
+<area shape="rect" id="node22" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="1421,5,1525,127"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ram_program.html" title="RAM program relation declaration and functions. " alt="" coords="1651,851,1809,1133"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ram_node.html" title="RamNode is a superclass for all RAM IR classes. " alt="" coords="1464,520,1607,729"/>
+</map>

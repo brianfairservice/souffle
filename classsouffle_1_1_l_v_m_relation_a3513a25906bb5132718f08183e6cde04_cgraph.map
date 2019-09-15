@@ -1,0 +1,6 @@
+<map id="souffle::LVMRelation::insert" name="souffle::LVMRelation::insert">
+<area shape="rect" id="node2" href="$classsouffle_1_1_l_v_m_relation.html#abfe16ada59339d570d7e8060cb7896b1" title="Add the given tuple to this relation. " alt="" coords="207,5,360,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_l_v_m_relation.html#add07aa9617539783e0f674f5a898d396" title="Obtains a stream to scan the entire relation. " alt="" coords="207,71,360,112"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_l_v_m_index.html#ad47ed27229ac965aa188b72c5279ff98" title="Inserts a tuple into this index. " alt="" coords="423,5,567,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_l_v_m_index.html#af1d7b57aab394a0043c21e18167f9498" title="Returns a stream covering the entire index content. " alt="" coords="408,78,583,105"/>
+</map>

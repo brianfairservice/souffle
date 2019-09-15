@@ -1,0 +1,13 @@
+<map id="souffle::RelationEncoder::RelationEncoder" name="souffle::RelationEncoder::RelationEncoder">
+<area shape="rect" id="node2" href="$classsouffle_1_1_relation_encoder.html#a410919dfcb60e943b9d4b4ab89127e06" title="Encode a relation into a index Id and return the encoding result. " alt="" coords="244,88,423,129"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_program.html#a4000c6df4df0aa833b8b684a30f69b91" title="Get relations map. " alt="" coords="254,153,413,195"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ram_translation_unit.html#a53f5fe30e4ba14d10b7e2ca4d42a510e" title="get the const RAM Program of the translation unit " alt="" coords="232,219,435,260"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation.html#a445819695b0b607dd8605137edc69971" title="Get name. " alt="" coords="731,5,888,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_relation_encoder.html#a8d968e71e40316ba20e42364e500cc86" title="Create relation with corresponding index type. " alt="" coords="483,136,661,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_index_analysis.html#a475526dcb15efeaa12e8b561494d74e1" title="get the minimal index cover for a relation " alt="" coords="712,71,907,112"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_relation.html#aa2d201d636a8b01283b5996a56d7abb8" title="souffle::RamRelation\l::getArity" alt="" coords="731,136,888,177"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_relation.html#a3961793fe65b931fa12231135335c229" title="souffle::RamRelation\l::getAttributeTypeQualifiers" alt="" coords="709,201,909,243"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_relation.html#a24b3dd6b9ef7e76253a2e7a489389075" title="Relation representation type. " alt="" coords="731,267,888,308"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a08376db4bcb3dce4b0f83189d1f790c6" title="souffle::createBrieIndex" alt="" coords="721,333,898,359"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_order.html#acba06648b910cba7978cca29cbf87ed1" title="souffle::Order::size" alt="" coords="957,333,1101,359"/>
+</map>

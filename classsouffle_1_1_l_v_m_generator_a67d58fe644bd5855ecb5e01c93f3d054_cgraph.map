@@ -1,0 +1,5 @@
+<map id="souffle::LVMGenerator::visitLogRelationTimer" name="souffle::LVMGenerator::visitLogRelationTimer">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_abstract_log.html#a4def1f16c4031bfde383796f6aae7f26" title="Get logging message. " alt="" coords="247,5,429,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation_statement.html#a77d30eb0482a72bef77c865a91d14871" title="Get RAM relation. " alt="" coords="225,71,451,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_abstract_log.html#aaa7a5a256e48154e26340b4fac456990" title="Get logging statement. " alt="" coords="247,136,429,177"/>
+</map>

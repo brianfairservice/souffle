@@ -1,0 +1,6 @@
+<map id="souffle::RamBinRelationStatement" name="souffle::RamBinRelationStatement">
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_merge.html" title="Merge tuples from a source into target relation. " alt="" coords="5,631,171,781"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_swap.html" title="Swap operation with respect to two relations. " alt="" coords="195,645,333,767"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_statement.html" title="Abstract class for RAM statements. " alt="" coords="90,263,262,369"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_node.html" title="RamNode is a superclass for all RAM IR classes. " alt="" coords="105,5,247,215"/>
+</map>
