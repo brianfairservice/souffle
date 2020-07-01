@@ -85,7 +85,7 @@ inline char* realpath(const char* path, char* resolved_path) {
 #define __builtin_popcountll __popcnt64
 
 #if _MSC_VER < 1924
-constexpr unsigned long __builtin_ctz(unsigned long value) {  
+constexpr unsigned long __builtin_ctz(unsigned long value) {
     unsigned long trailing_zeroes = 0;
     while ((value = value >> 1) ^ 1) {
         ++trailing_zeroes;
@@ -102,7 +102,7 @@ inline unsigned long __builtin_ctzll(unsigned long long value) {
         return 64;
     }
 }
-#endif // _MSC_VER < 1924
+#endif  // _MSC_VER < 1924
 #endif
 
 /**
