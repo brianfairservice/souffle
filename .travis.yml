@@ -85,6 +85,26 @@ jobs:
         - clang-format-7
     script: ".travis/run_test_format.sh"
 
+# Windows
+  - stage: Testing
+    os: windows
+    language: cpp
+    script: '.travis/windows-test.sh'
+
+#  - &linuxgcc
+#    stage: Testing
+#    sudo: false
+#    os: linux
+#    compiler: gcc
+#    language: cpp
+#    addons:
+#      apt:
+#        packages:
+#        - *linux_deps
+#    before_script: ".travis/init_test.sh"
+#    script: ".travis/run_test.sh"
+#    after_failure: ".travis/after_failure.sh"
+    
 # Testing stage (-j8,-c -j8)
   - <<: *linuxgcc
     env:

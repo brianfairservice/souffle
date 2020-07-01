@@ -1,5 +1,6 @@
 #!/bin/bash
 
+readlink /bin/sh
 
 # Enable debugging and logging of shell operations
 # that are executed.
