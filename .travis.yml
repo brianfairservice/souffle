@@ -96,7 +96,7 @@ jobs:
       - wsl bash -c "apt-get update -y"
       - wsl bash -c "apt-get install -y autoconf bison build-essential flex libffi-dev libncurses5-dev libtool lsb-release mcpp swig"
     script:
-      - wsl bash -c "./bootstrap"
+      - wsl bash bootstrap
 
 #  - &linuxgcc
 #    stage: Testing
