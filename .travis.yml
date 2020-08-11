@@ -88,8 +88,13 @@ jobs:
 # Windows
   - stage: Testing
     os: windows
-    language: cpp
-    script: '.travis/windows-test.sh'
+    language: shell
+    before_install:
+      - choco install wsl-ubuntu-1804
+      - wsl bash -c "pwd"
+      - wsl bash -c "apt-get update -y"
+      - wsl bash -c "apt-get install -y autoconf bison build-essential flex libffi-dev libncurses5-dev libtool lsb-release mcpp swig"
+    script: ".travis/windows-test.sh"
 
 #  - &linuxgcc
 #    stage: Testing
