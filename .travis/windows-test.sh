@@ -20,6 +20,7 @@ wsl -- file bootstrap
 wsl which sh
 wsl bash -c "apt-get update -y"
 wsl bash -c "apt-get install -y autoconf bison build-essential flex libffi-dev libncurses5-dev libtool lsb-release mcpp swig"
-
+wsl bash -c "pwd"
+wsl bash -c "ls"
 wsl bash -c "./bootstrap"
 
