@@ -2571,7 +2571,7 @@ void Synthesiser::generateCode(std::ostream& os, const std::string& id, bool& wi
 
     // dump inputs
     os << "public:\n";
-    os << "void dumpInputs(std::ostream& out = std::cout) override {\n";
+    os << "void dumpInputs() override {\n";
     for (auto load : loadIOs) {
         dumpRelation(load->getRelation());
     }
@@ -2579,7 +2579,7 @@ void Synthesiser::generateCode(std::ostream& os, const std::string& id, bool& wi
 
     // dump outputs
     os << "public:\n";
-    os << "void dumpOutputs(std::ostream& out = std::cout) override {\n";
+    os << "void dumpOutputs() override {\n";
     for (auto store : storeIOs) {
         dumpRelation(store->getRelation());
     }
